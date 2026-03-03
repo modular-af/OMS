@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Service Contract Template
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 january 2026
 
@@ -1779,12 +1779,12 @@ Figure 3.1-1, Service Status State Diagram, shows allowed states for
 reporting **ServiceStatus**. Figure 3.1-2, Allowed Service State
 Transitions, shows allowed states and transitions for this Service.
 
-<img src="media/image2.png" style="width:6.5in;height:4.125in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:4.125in" />
 
 <span id="_Toc219295723" class="anchor"></span>Figure 3.1-1 Service
 Status State Diagram
 
-<img src="media/image3.png" style="width:4.84884in;height:5.43418in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image3.png" style="width:4.84884in;height:5.43418in" />
 
 <span id="_Toc219295724" class="anchor"></span>Figure 3.1-2 Allowed
 Service State Transitions
@@ -1799,7 +1799,7 @@ function is a periodic publishing pattern. At the specified interval,
 the Service publishes the **ServiceStatus** message. This interval is
 defined in Section 3.1.1.3, Service Status Reporting Interval.
 
-<img src="media/image4.png" style="width:5.66279in;height:3.15809in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image4.png" style="width:5.66279in;height:3.15809in" />
 
 <span id="_Toc219295725" class="anchor"></span>Figure 3.1-3 Service
 Status Sequence Diagram
@@ -1812,7 +1812,7 @@ Rules. This is an on-time operation, meaning that there are no (long)
 time intervals between sending the request, the processing of the
 request, and sending the reply.
 
-<img src="media/image5.png" style="width:3.51163in;height:3.17397in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image5.png" style="width:3.51163in;height:3.17397in" />
 
 <span id="_Toc219295726" class="anchor"></span>Figure 3.1-4 Service
 Status Data Request Response Rules
@@ -2078,12 +2078,12 @@ Figure 3.2-1, Subsystem Status State Diagram, shows allowed states for
 reporting **SubsystemStatus**. Figure 3.2-2 Allowed Subsystem State
 Transitions, shows allowed states and transitions for this Subsystem.
 
-<img src="media/image6.png" style="width:6.5in;height:4.59375in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image6.png" style="width:6.5in;height:4.59375in" />
 
 <span id="_Toc219295727" class="anchor"></span>Figure 3.2-1 Subsystem
 Status State Diagram
 
-<img src="media/image7.png" style="width:6.90698in;height:6.90698in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image7.png" style="width:6.90698in;height:6.90698in" />
 
 <span id="_Toc219295728" class="anchor"></span>Figure 3.2-2 Allowed
 Subsystem State Transitions
@@ -2099,7 +2099,7 @@ interval, the Subsystem publishes the **SubsystemStatus** message. This
 interval is defined in Section 3.2.2.3, Subsystem Status Reporting
 Interval.
 
-<img src="media/image8.png" style="width:6.36475in;height:3.48837in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image8.png" style="width:6.36475in;height:3.48837in" />
 
 <span id="_Toc219295729" class="anchor"></span>Figure 3.2-3 Subsystem
 Status Sequence Diagram
@@ -2112,7 +2112,7 @@ Response Rules. This is an on-time operation, meaning that there are no
 (long) time intervals between sending the request, the processing of the
 request, and sending the reply.
 
-<img src="media/image9.png" style="width:3.67919in;height:3.33721in" />
+<img src="images/14_1_OMSC-TMP-003_RevM_ServiceContractTemplate_DandD_v2_5.docx/media/image9.png" style="width:3.67919in;height:3.33721in" />
 
 <span id="_Toc219295730" class="anchor"></span>Figure 3.2-4 Subsystem
 Status Data Request Response Rules

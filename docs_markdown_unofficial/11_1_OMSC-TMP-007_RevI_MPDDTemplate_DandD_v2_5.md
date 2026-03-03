@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Mission Package Description Document (MPDD) Template
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/11_1_OMSC-TMP-007_RevI_MPDDTemplate_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -426,7 +426,7 @@ cybersecurity requirements as shown in Figure 2.1-1. The OMS
 Cybersecurity is a component of the overall cybersecurity accreditation
 of the weapon system.
 
-<img src="media/image2.png" style="width:6.5in;height:4.3125in" />
+<img src="images/11_1_OMSC-TMP-007_RevI_MPDDTemplate_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:4.3125in" />
 
 <span id="_Toc219294379" class="anchor"></span>Figure 2.1-1 OMS
 Cybersecurity Guidance in Acquisition

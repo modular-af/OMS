@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Operating System Façade Specification
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/08_OMSC-SPC-005_RevJ_OS_FacadeSpecification_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 january 2026
 

@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 OMS Platform Checklist Instructions
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/16_2_OMSC-INS-009_RevM_PlatformChecklistInstructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 

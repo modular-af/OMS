@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Service Contract Template Instructions
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -3913,7 +3913,7 @@ new states or new transitions cannot be added, but existing states and
 transitions may be removed to match the Service’s implementation (except
 removal of the NORMAL state).
 
-<img src="media/image2.png" style="width:6.5in;height:4.16667in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:4.16667in" />
 
 <span id="_Toc219296196" class="anchor"></span>Figure 3.1-1 Service
 Status State Diagram
@@ -3928,7 +3928,7 @@ Figure 3.1.2-1, Service Status State Diagram Crossed-Out Example, uses
 red “Xs” to indicate that the DEGRADED state and the transitions into
 and out of the state are not supported by the Service.
 
-<img src="media/image3.png" style="width:5.73958in;height:3.69792in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image3.png" style="width:5.73958in;height:3.69792in" />
 
 <span id="_Toc256000163" class="anchor"></span>Figure 3.1.2-1 Service
 Status State Diagram Crossed-Out Example
@@ -3938,7 +3938,7 @@ Example, shows the Service’s states without the DEGRADED state in a new
 drawing that was created by the Adopting Program’s use of the UML tool
 Cameo Enterprise Architecture.
 
-<img src="media/image4.png" style="width:3.63636in;height:3.8716in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image4.png" style="width:3.63636in;height:3.8716in" />
 
 <span id="_Toc256000164" class="anchor"></span>Figure 3.1.2-2 Service
 Status State Diagram Recreated Using Cameo Example
@@ -3948,7 +3948,7 @@ Example, shows the Service’s states without the DEGRADED state in a new
 drawing that was created by the Adopting Program’s use of the drawing
 tool PlantUML. Code for this example can be found in Appendix D.
 
-<img src="media/image5.png" style="width:5.13542in;height:1.96875in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image5.png" style="width:5.13542in;height:1.96875in" />
 
 <span id="_Toc256000165" class="anchor"></span>Figure 3.1.2-3 Service
 Status State Diagram Recreated Using PlantUML Example
@@ -3971,7 +3971,7 @@ cannot be replaced by an “A” transition, unless a state is removed.
 Updates to Figures 3.1-1 and 3.1-2 that show the modified states and
 transitions must be consistent.
 
-<img src="media/image6.png" style="width:4.90177in;height:5.49351in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image6.png" style="width:4.90177in;height:5.49351in" />
 
 <span id="_Toc219296200" class="anchor"></span>Figure 3.1-2 Allowed
 Service State Transitions
@@ -3999,7 +3999,7 @@ Figure 3.1.2-4, Allowed Service State Transitions Crossed-Out Example,
 uses thick red lines to indicate that the DEGRADED state and all its
 transitions are not supported by the Service.
 
-<img src="media/image7.png" style="width:4.34401in;height:5.15584in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image7.png" style="width:4.34401in;height:5.15584in" />
 
 <span id="_Toc256000166" class="anchor"></span>Figure 3.1.2-4 Allowed
 Service State Transitions Crossed-Out Example
@@ -4009,7 +4009,7 @@ Example, shows the Service’s state transitions without the DEGRADED
 state in a new table that was created by the Adopting Program’s use of
 the UML tool Cameo Enterprise Architecture.
 
-<img src="media/image8.png" style="width:3.58441in;height:2.11255in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image8.png" style="width:3.58441in;height:2.11255in" />
 
 <span id="_Toc256000167" class="anchor"></span>Figure 3.1.2-5 Allowed
 Service State Transitions Recreated Using Cameo Example
@@ -4020,7 +4020,7 @@ DEGRADED state in a new table that was created by the Adopting Program’s
 use of the drawing tool PlantUML. Code for this example can be found in
 Appendix D.
 
-<img src="media/image9.png" style="width:4.71428in;height:3.78471in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image9.png" style="width:4.71428in;height:3.78471in" />
 
 <span id="_Toc256000168" class="anchor"></span>Figure 3.1.2-6 Allowed
 Service State Transitions Recreated Using PlantUML Example
@@ -4035,7 +4035,7 @@ function is a periodic publishing pattern. At the specified interval,
 the Service publishes the **ServiceStatus** message. This interval is
 defined in Section 3.1.1.3, Service Status Reporting Interval.
 
-<img src="media/image10.png" style="width:6.5in;height:3.625in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image10.png" style="width:6.5in;height:3.625in" />
 
 <span id="_Toc219296204" class="anchor"></span>Figure 3.1-3 Service
 Status Sequence Diagram
@@ -4048,7 +4048,7 @@ Rules. This is an on-time operation, meaning that there are no (long)
 time intervals between sending the request, the processing of the
 request, and sending the reply.
 
-<img src="media/image11.png" style="width:4in;height:3.57692in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image11.png" style="width:4in;height:3.57692in" />
 
 <span id="_Toc219296205" class="anchor"></span>Figure 3.1-4 Service
 Status Data Request Response Rules
@@ -4295,7 +4295,7 @@ synchronous protocol as indicated by a solid line with solid arrowhead.
 Other data transfers may use an asynchronous protocol, which would be
 indicated by a solid line with open arrowhead.
 
-<img src="media/image12.png" style="width:6.5in;height:2.79167in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image12.png" style="width:6.5in;height:2.79167in" />
 
 <span id="_Toc256000169" class="anchor"></span>Figure 3.2.1-1 Mission
 Data File Stored in Subsystem Configuration File Message Sequence
@@ -4307,7 +4307,7 @@ information (MDF identification and location) to the Subsystem using
 3.2.1-2 Mission Data File Location Pushed by the Platform Message
 Sequence Example.
 
-<img src="media/image13.png" style="width:6.5in;height:3.09375in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image13.png" style="width:6.5in;height:3.09375in" />
 
 <span id="_Toc256000170" class="anchor"></span>Figure 3.2.1-2 Mission
 Data File Location Pushed by the Platform Message Sequence Example
@@ -4317,7 +4317,7 @@ Example 3: Subsystem uses **QueryDataRequest** and
 identification and location) as shown in Figure 3.2.1-3 Mission Data
 File QueryDataRequest Message Sequence Example.
 
-<img src="media/image14.png" style="width:6.5in;height:3.82292in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image14.png" style="width:6.5in;height:3.82292in" />
 
 <span id="_Toc256000171" class="anchor"></span>Figure 3.2.1-3 Mission
 Data File QueryDataRequest Message Sequence Example
@@ -4507,7 +4507,7 @@ transitions may be removed to match the Subsystem’s implementation
 removed, its incoming and outgoing transitions can be connected,
 essentially passing through the removed state.
 
-<img src="media/image15.png" style="width:5.49448in;height:3.88312in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image15.png" style="width:5.49448in;height:3.88312in" />
 
 <span id="_Toc219296209" class="anchor"></span>Figure 3.2-1 Subsystem
 Status State Diagram
@@ -4530,7 +4530,7 @@ The second green arrow shows the transition from states in the dark blue
 box (e.g., DEGRADED, STANDBY, OPERATE, etc.) passing through the removed
 PRE-INITIALIZATION state into the INITIALIZATION state.
 
-<img src="media/image16.png" style="width:6.5in;height:4.84375in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image16.png" style="width:6.5in;height:4.84375in" />
 
 <span id="_Toc256000172" class="anchor"></span>Figure 3.2.2-1 Subsystem
 Status State Diagram Crossed-Out Example
@@ -4540,7 +4540,7 @@ Example, shows the Subsystem’s states without the PRE-INITIALIZATION
 state in a new drawing that was created by the Adopting Program’s use of
 the UML tool Cameo Enterprise Architecture.
 
-<img src="media/image17.png" style="width:6.5in;height:4.78125in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image17.png" style="width:6.5in;height:4.78125in" />
 
 <span id="_Toc256000173" class="anchor"></span>Figure 3.2.2-2 Subsystem
 Status State Diagram Recreated Using Cameo Example
@@ -4551,7 +4551,7 @@ state in a new drawing that was created by the Adopting Program’s use of
 the drawing tool PlantUML Code for this example can be found in Appendix
 D.
 
-<img src="media/image18.png" style="width:6.5in;height:5.69792in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image18.png" style="width:6.5in;height:5.69792in" />
 
 <span id="_Toc256000174" class="anchor"></span>Figure 3.2.2-3 Subsystem
 Status State Diagram Recreated Using PlantUML Example
@@ -4574,7 +4574,7 @@ cannot be replaced by an “A” transition, unless a state is removed.
 Updates to Figures 3.2-1 and 3.2-2 that show the modified states and
 transitions must be consistent.
 
-<img src="media/image19.png" style="width:5.34375in;height:5.34375in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image19.png" style="width:5.34375in;height:5.34375in" />
 
 <span id="_Toc219296213" class="anchor"></span>Figure 3.2-2 Allowed
 Subsystem State Transitions
@@ -4612,7 +4612,7 @@ all its transitions are not supported by the Subsystem. The transition
 from OFF to INITIALIZATION has been changed from Unallowed to Allowed as
 indicated by the green oval.
 
-<img src="media/image20.png" style="width:6.73108in;height:6.7013in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image20.png" style="width:6.73108in;height:6.7013in" />
 
 <span id="_Toc256000175" class="anchor"></span>Figure 3.2.2-4 Allowed
 Subsystem State Transitions Crossed-Out Example
@@ -4622,7 +4622,7 @@ Cameo Example, shows the Subsystem’s state transitions without the
 PRE-INITIALIZATION state in a new table that was created by the Adopting
 Program’s use of the UML tool Cameo Enterprise Architecture.
 
-<img src="media/image21.png" style="width:5.54988in;height:5.35065in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image21.png" style="width:5.54988in;height:5.35065in" />
 
 <span id="_Toc256000176" class="anchor"></span>Figure 3.2.2-5 Allowed
 Subsystem State Transitions Recreated Using Cameo Example
@@ -4633,7 +4633,7 @@ PRE-INITIALIZATION state in a new table that was created by the Adopting
 Program’s use of the drawing tool PlantUML. Code for this example can be
 found in Appendix D.
 
-<img src="media/image22.png" style="width:7.27044in;height:3.12256in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image22.png" style="width:7.27044in;height:3.12256in" />
 
 <span id="_Toc256000177" class="anchor"></span>Figure 3.2.2-6 Allowed
 Subsystem State Transitions Recreated Using PlantUML Example
@@ -4649,7 +4649,7 @@ interval, the Subsystem publishes the **SubsystemStatus** message. This
 interval is defined in Section 3.2.2.3, Subsystem Status Reporting
 Interval.
 
-<img src="media/image23.png" style="width:6.5in;height:3.5625in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image23.png" style="width:6.5in;height:3.5625in" />
 
 <span id="_Toc219296217" class="anchor"></span>Figure 3.2-3 Subsystem
 Status Sequence Diagram
@@ -4662,7 +4662,7 @@ Response Rules. This is an on-time operation, meaning that there are no
 (long) time intervals between sending the request, the processing of the
 request, and sending the reply.
 
-<img src="media/image24.png" style="width:3.79221in;height:3.40326in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image24.png" style="width:3.79221in;height:3.40326in" />
 
 <span id="_Toc219296218" class="anchor"></span>Figure 3.2-4 Subsystem
 Status Data Request Response Rules
@@ -4858,7 +4858,7 @@ Subsystem reports it is in its INITIALIZATION state (step 2). The
 Subsystem completes its initialization processing (step 3). Subsystem
 reports it is now in its STANDBY state (step 4).
 
-<img src="media/image25.png" style="width:6.82913in;height:3.8961in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image25.png" style="width:6.82913in;height:3.8961in" />
 
 <span id="_Toc256000178" class="anchor"></span>Figure 3.2.3-1 Automatic
 Subsystem State Transition from INITALIZATION to STANDBY Message
@@ -4880,7 +4880,7 @@ Subsystem rejects the command, it responds with
 **SubsystemStateCommandStatus** indicating REJECTED (step 9) and does
 not perform the state transition (step 10).
 
-<img src="media/image26.png" style="width:6.5in;height:4.94792in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image26.png" style="width:6.5in;height:4.94792in" />
 
 <span id="_Toc256000179" class="anchor"></span>Figure 3.2.3-2 Subsystem
 State Transition from INITIALIZATION to STANDBY Using
@@ -4900,7 +4900,7 @@ Subsystem rejects the command, it responds with
 **SubsystemStateCommandStatus** indicating REJECTED (step 7) and does
 not perform the state transition (step 8).
 
-<img src="media/image27.png" style="width:6.5in;height:3.84375in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image27.png" style="width:6.5in;height:3.84375in" />
 
 <span id="_Toc256000180" class="anchor"></span>Figure 3.2.3-3 Subsystem
 State Transition from STANDBY to OPERATE Using SubsystemStateCommand
@@ -4924,7 +4924,7 @@ Once complete, the Subsystem reports it is now in its STANDBY state
 **SubsystemStateCommandStatus** indicating REJECTED (step 9) and does
 not perform the state transition (step 10).
 
-<img src="media/image28.png" style="width:6.9039in;height:6.02985in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image28.png" style="width:6.9039in;height:6.02985in" />
 
 <span id="_Toc256000181" class="anchor"></span>Figure 3.2.3-4 Subsystem
 State Transition from OPERATE to STANDBY using SubsystemStateCommand
@@ -4947,7 +4947,7 @@ complete, the Subsystem reports it is now in its INITIALIZATION state
 **SubsystemStateCommandStatus** indicating REJECTED (step 7) and does
 not perform the state transition (step 8).
 
-<img src="media/image29.png" style="width:6.5in;height:4.05208in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image29.png" style="width:6.5in;height:4.05208in" />
 
 <span id="_Toc256000182" class="anchor"></span>Figure 3.2.3-5 Subsystem
 State Transition from STANDBY to INITIALIZATION Using
@@ -5250,7 +5250,7 @@ rejected, the Subsystem responds with **SubsystemStateCommandStatus**
 indicating REJECTED (step 13) and does not perform the state transition
 nor any IBIT testing (step 14).
 
-<img src="media/image30.png" style="width:6.5in;height:7.30208in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image30.png" style="width:6.5in;height:7.30208in" />
 
 <span id="_Toc256000183" class="anchor"></span>Figure 3.2.4-1 Subsystem
 State Transition from OPERATE to INITIATED\_BIT using
@@ -5303,7 +5303,7 @@ Use or modify the green text above and the example message sequences as
 needed to define the Subsystem’s function behavior, including error
 handling.
 
-<img src="media/image31.png" style="width:6.5in;height:4.20833in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image31.png" style="width:6.5in;height:4.20833in" />
 
 <span id="_Toc256000184" class="anchor"></span>Figure 3.2.4-2
 SubsystemBIT\_Command Message Sequence Example
@@ -5597,7 +5597,7 @@ the command was rejected, the Subsystem responds with
 **SubsystemStateCommandStatus** indicating REJECTED (step 13) and does
 not perform the state transition nor any Calibration testing (step 14).
 
-<img src="media/image32.png" style="width:6.5in;height:7.05208in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image32.png" style="width:6.5in;height:7.05208in" />
 
 <span id="_Toc256000185" class="anchor"></span>Figure 3.2.5-1 Subsystem
 State Transition from OPERATE to CALIBRATION Using SubsystemStateCommand
@@ -5650,7 +5650,7 @@ Use or modify the green text above and the message sequence examples as
 needed to define the Subsystem’s function behavior, including error
 handling.
 
-<img src="media/image33.png" style="width:6.5in;height:5.25in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image33.png" style="width:6.5in;height:5.25in" />
 
 <span id="_Toc256000186" class="anchor"></span>Figure 3.2.5-2
 SubsystemCalibrationCommand Message Sequence Example
@@ -5830,7 +5830,7 @@ rejects the command, it responds with **SubsystemStateCommandStatus**
 indicating REJECTED (step 8) and does not perform the state transition
 or shutdown processing (step 9).
 
-<img src="media/image34.png" style="width:6.5in;height:5.02083in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image34.png" style="width:6.5in;height:5.02083in" />
 
 <span id="_Toc256000187" class="anchor"></span>Figure 3.2.6-1 Subsystem
 Shutdown Processing from Any State Except OPERATE Message Sequence
@@ -5858,7 +5858,7 @@ the Subsystem rejects the command, it responds with
 **SubsystemStateCommandStatus** indicating REJECTED (step 10) and does
 not perform the state transition or shutdown processing (step 11).
 
-<img src="media/image35.png" style="width:6.5in;height:6.32292in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image35.png" style="width:6.5in;height:6.32292in" />
 
 <span id="_Toc256000188" class="anchor"></span>Figure 3.2.6-2 Subsystem
 Shutdown Processing from OPERATE State Message Sequence Example
@@ -6058,12 +6058,12 @@ subscribing to **PositionReport**. Example 2 shown in Figure 3.3.1-2
 Position Report Detailed Message Sequence Example is a message sequence
 illustrating a Subsystem subscribing to **PositionReportDetailed**.
 
-<img src="media/image36.png" style="width:6.5in;height:1.875in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image36.png" style="width:6.5in;height:1.875in" />
 
 <span id="_Toc256000189" class="anchor"></span>Figure 3.3.1-1 Position
 Report Message Sequence Example
 
-<img src="media/image37.png" style="width:6.5in;height:1.61458in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image37.png" style="width:6.5in;height:1.61458in" />
 
 <span id="_Toc256000190" class="anchor"></span>Figure 3.3.1-2 Position
 Report Detailed Message Sequence Example
@@ -6252,7 +6252,7 @@ state enumerations and transitions are allowed. A defined state or
 transition is not required to be used, but if a state or transition is
 supported, it must be used as intended.
 
-<img src="media/image38.png" style="width:7.39927in;height:2.86959in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image38.png" style="width:7.39927in;height:2.86959in" />
 
 <span id="_Toc256000191" class="anchor"></span>Figure 3.3-1
 CapabilityAvailability State Diagram
@@ -6263,7 +6263,7 @@ this example, the Subsystem publishes its available Capabilities such as
 Acquisition and Geolocation using **ESM\_Capability**, and then provides
 Capability Availability status using **ESM\_CapabilityStatus**.
 
-<img src="media/image39.png" style="width:6.5in;height:2.03125in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image39.png" style="width:6.5in;height:2.03125in" />
 
 <span id="_Toc256000192" class="anchor"></span>Figure 3.3.2-1 ESM
 Capability & Capability Status Function Message Sequence Example
@@ -6480,7 +6480,7 @@ indicating REJECTED (step 15) and does not perform the state transition
 to OPERATE; the availability status of the Capabilities remains DISABLED
 (step 16).
 
-<img src="media/image40.png" style="width:6.5in;height:6.97917in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image40.png" style="width:6.5in;height:6.97917in" />
 
 <span id="_Toc256000193" class="anchor"></span>Figure 3.3.2-2 ESM
 Capability Enable Function Message Sequence Example
@@ -6504,7 +6504,7 @@ was rejected, the Subsystem responds with **ESM\_SettingsCommandStatus**
 indicating REJECTED (step 8) and the availability status of the
 Capabilities remains as AVAILABLE (step 9).
 
-<img src="media/image41.png" style="width:6.5in;height:4.39583in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image41.png" style="width:6.5in;height:4.39583in" />
 
 <span id="_Toc256000194" class="anchor"></span>Figure 3.3.2-3 ESM
 Capability Disable Function Message Sequence Example
@@ -6723,7 +6723,7 @@ and **Entity** messages showing the signal was REMOVED (step 13) and the
 **Entity** was DROPPED (step 14). ESM continues Activity for its AUTO
 Capability (step 15).
 
-<img src="media/image42.png" style="width:6.5in;height:6.86458in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image42.png" style="width:6.5in;height:6.86458in" />
 
 <span id="_Toc256000195" class="anchor"></span>Figure 3.3.2-4 ESM AUTO
 Operations Message Sequence Example
@@ -6751,7 +6751,7 @@ in a **PulseData** message (step 13). The Subsystem then publishes an
 **ESM\_CommandStatus** indicates REJECTED (step 15) and no collection is
 performed.
 
-<img src="media/image43.png" style="width:6.5in;height:6.29167in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image43.png" style="width:6.5in;height:6.29167in" />
 
 <span id="_Toc256000196" class="anchor"></span>Figure 3.3.2-5 ESM MANUAL
 Operations Message Sequence Example
@@ -6778,7 +6778,7 @@ Platform retrieves the image using data transfer (Step 13). Rejection of
 the **PO\_Command** is shown where **PO\_CommandStatus** indicates
 REJECTED (step 14) and no collection is performed.
 
-<img src="media/image44.png" style="width:6.5in;height:5.04167in" />
+<img src="images/14_2_OMSC-INS-003_RevM_ServiceContractInstructions_DandD_v2_5.docx/media/image44.png" style="width:6.5in;height:5.04167in" />
 
 <span id="_Toc256000197" class="anchor"></span>Figure 3.3.2-6 Passive
 Optical Image Sent Using Data Transfer Message Sequence Example

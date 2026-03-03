@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Platform Description Document (PDD) Template Instructions
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/12_2_OMSC-INS-001_RevM_PDDInstructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -825,7 +825,7 @@ Platform’s network.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE. INCLUDE AN APPROPRIATE
 FIGURE FOR YOUR SYSTEM &gt;&gt;
 
-<img src="media/image2.png" style="width:6.5in;height:5.875in" />
+<img src="images/12_2_OMSC-INS-001_RevM_PDDInstructions_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:5.875in" />
 
 <span id="_Toc219294954" class="anchor"></span>Figure 3.2-1 Network
 Interconnect Diagram

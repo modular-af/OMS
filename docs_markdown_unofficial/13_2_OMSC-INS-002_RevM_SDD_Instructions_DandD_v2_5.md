@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Subsystem Description Document (SDD) Template Instructions
 
-<img src="media/image1.jpeg" style="width:2.775in;height:1.73333in" />
+<img src="images/13_2_OMSC-INS-002_RevM_SDD_Instructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.775in;height:1.73333in" />
 
 22 January 2026
 
@@ -423,7 +423,7 @@ will evolve during the life-cycle of an OMS Subsystem’s development.
 FIGURE IF APPLICABLE. IF NOT APPLICABLE, REPLACE THE FIGURE WITH “FIGURE
 NOT APPLICABLE” &gt;&gt;
 
-<img src="media/image2.png" style="width:6.5in;height:6.48333in" />
+<img src="images/13_2_OMSC-INS-002_RevM_SDD_Instructions_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:6.48333in" />
 
 <span id="_Toc219295202" class="anchor"></span>Figure 1.0-1 SDD Document
 Tree
@@ -540,12 +540,12 @@ with a sentence.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE AND CAPTION. INCLUDE AN
 APPROPRIATE FIGURE AND CAPTION FOR YOUR SYSTEM &gt;&gt;
 
-<img src="media/image3.png" style="width:4.99167in;height:4.24167in" />
+<img src="images/13_2_OMSC-INS-002_RevM_SDD_Instructions_DandD_v2_5.docx/media/image3.png" style="width:4.99167in;height:4.24167in" />
 
 <span id="_Toc256000047" class="anchor"></span>Figure 1.2-1 Standalone
 Subsystem
 
-<img src="media/image4.png" style="width:6.5in;height:3.59167in" />
+<img src="images/13_2_OMSC-INS-002_RevM_SDD_Instructions_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:3.59167in" />
 
 <span id="_Toc256000048" class="anchor"></span>Figure 1.2-2
 Platform-Hosted OMS Adaptation
@@ -844,7 +844,7 @@ could be included in this section, as needed.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE AND CAPTION. INCLUDE AN
 APPROPRIATE FIGURE AND CAPTION IF APPLICABLE &gt;&gt;
 
-<img src="media/image5.png" style="width:3.875in;height:3.49247in" />
+<img src="images/13_2_OMSC-INS-002_RevM_SDD_Instructions_DandD_v2_5.docx/media/image5.png" style="width:3.875in;height:3.49247in" />
 
 <span id="_Toc256000049" class="anchor"></span>Figure 8.0-1 Plug
 Connection Diagram
@@ -871,7 +871,7 @@ figure with a sentence if the figure is included in this section.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE AND CAPTION. INCLUDE AN
 APPROPRIATE FIGURE AND CAPTION IF APPLICABLE &gt;&gt;
 
-<img src="media/image6.png" style="width:5.33704in;height:8.1875in" />
+<img src="images/13_2_OMSC-INS-002_RevM_SDD_Instructions_DandD_v2_5.docx/media/image6.png" style="width:5.33704in;height:8.1875in" />
 
 <span id="_Toc256000050" class="anchor"></span>Figure 8.0-2 OMS Data
 Exchanges with a Platform-Hosted OMS Adapter

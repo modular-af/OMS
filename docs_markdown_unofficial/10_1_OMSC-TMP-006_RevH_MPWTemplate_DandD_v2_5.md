@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Mission Package Worksheet (MPW) Template
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/10_1_OMSC-TMP-006_RevH_MPWTemplate_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 

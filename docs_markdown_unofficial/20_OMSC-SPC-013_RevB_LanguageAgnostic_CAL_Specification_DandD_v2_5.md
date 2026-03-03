@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Language-Agnostic (LA) Critical Abstraction Layer (CAL) Specification
 
-<img src="media/image1.jpeg" style="width:2.77778in;height:1.73611in" />
+<img src="images/20_OMSC-SPC-013_RevB_LanguageAgnostic_CAL_Specification_DandD_v2_5.docx/media/image1.jpeg" style="width:2.77778in;height:1.73611in" />
 
 22 January 2026
 
@@ -333,7 +333,7 @@ interfaces for publishing and receiving CAL Messages. OMS messaging
 interactions between OMS participants must use the CAL-provided publish
 and subscribe interface.
 
-<img src="media/image2.png" style="width:6.5in;height:2.95833in" />
+<img src="images/20_OMSC-SPC-013_RevB_LanguageAgnostic_CAL_Specification_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:2.95833in" />
 
 <span id="_Toc219358826" class="anchor"></span>Figure 4.0-1 CAL Client
 Stack
@@ -426,7 +426,7 @@ to identify the communications between publications and subscriptions. A
 CAL Server maps internal CAL Topics to Client Topics. Figure 4.7-1, CAL
 and Client Topics, depicts these interactions.
 
-<img src="media/image3.png" style="width:6.5in;height:3.22795in" />
+<img src="images/20_OMSC-SPC-013_RevB_LanguageAgnostic_CAL_Specification_DandD_v2_5.docx/media/image3.png" style="width:6.5in;height:3.22795in" />
 
 <span id="_Toc219358827" class="anchor"></span>Figure 4.7-1 CAL and
 Client Topics
@@ -451,7 +451,7 @@ the message. Figure 4.8-1, Subscription Groups, shows CAL Clients B, C,
 and D having subscriptions forming a Subscription Group. Messages
 published from CAL Client A are distributed among the group.
 
-<img src="media/image4.png" style="width:6.5in;height:3.3771in" />
+<img src="images/20_OMSC-SPC-013_RevB_LanguageAgnostic_CAL_Specification_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:3.3771in" />
 
 <span id="_Toc219358828" class="anchor"></span>Figure 4.8-1 Subscription
 Groups

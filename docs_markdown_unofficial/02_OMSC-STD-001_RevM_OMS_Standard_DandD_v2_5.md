@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 OMS Standard Version 2.5
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -23,7 +23,7 @@ Subsystems and OMS Services (hereafter referred to as “Subsystems” and
 Packages”). Figure 0.0-1 depicts the top-level view of the OMS Reference
 Architecture.
 
-<img src="media/image2.png" style="width:6.5in;height:4.63542in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:4.63542in" />
 
 <span id="_Toc219290684" class="anchor"></span>Figure 0.0-1 Top-Level
 View of the OMS Reference Architecture
@@ -616,7 +616,7 @@ needed to understand the open mission systems initiative and to use the
 architecture it defines. The OMS Definition and Documentation includes
 the documents shown in Figure 1.0-1, OMS D&D Document Tree:
 
-<img src="media/image3.png" style="width:6.5in;height:4.03125in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image3.png" style="width:6.5in;height:4.03125in" />
 
 <span id="_Toc219290685" class="anchor"></span>Figure 1.0-1 OMS D&D
 Document Tree
@@ -636,7 +636,7 @@ interconnected using OMS Data Exchanges and are architecturally
 isolated, using OMS Isolators, from the elements of the larger weapon
 system into which it is integrated.
 
-<img src="media/image2.png" style="width:6.5in;height:4.63542in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:4.63542in" />
 
 <span id="_Toc219290686" class="anchor"></span>Figure 1.0-2 Top-Level
 View of the OMS Reference Architecture
@@ -666,7 +666,7 @@ messages are sent by publishers and received by subscribers. Therefore,
 Subsystems, Services, and Isolators will focus on OMS Messages rather
 than source or destination.
 
-<img src="media/image4.png" style="width:6.5in;height:3.80208in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:3.80208in" />
 
 <span id="_Toc219290687" class="anchor"></span>Figure 1.0-3 Example OMS
 Architecture Implementation
@@ -998,7 +998,7 @@ business objectives of OMS. Figure 0.0-1, Top-Level View of the OMS
 Reference Architecture, depicts an OMS Reference Architecture
 implementation.
 
-<img src="media/image4.png" style="width:6.5in;height:3.80208in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:3.80208in" />
 
 <span id="_Toc219290688" class="anchor"></span>Figure 3.2-1 Example OMS
 Architecture Implementation
@@ -1015,7 +1015,7 @@ of OMS architecture, i.e., OMS’s standardized elements and interfaces
 that enable independent acquisition and upgrades of UoRs as well as
 their reuse/exchangeability between Mission Packages.
 
-<img src="media/image5.png" style="width:6.5in;height:3.59375in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image5.png" style="width:6.5in;height:3.59375in" />
 
 <span id="_Toc219290689" class="anchor"></span>Figure 3.2-2 Mission
 Package Worksheet
@@ -1091,7 +1091,7 @@ Subsystems and Services between OMS Mission Packages. The CAL allows
 applications to interact with message objects regardless of the
 underlying transport and routing implementation.
 
-<img src="media/image6.png" style="width:6.5in;height:5.28125in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image6.png" style="width:6.5in;height:5.28125in" />
 
 <span id="_Toc219290690" class="anchor"></span>Figure 3.2-3 Detailed
 Structure Diagram for the ASB
@@ -2102,7 +2102,7 @@ Services, and Isolators. Refer to Figure 6.1-1, Example Service Showing
 Service Boundary, for an illustration of an example Service with three
 constituent parts and its boundary.
 
-<img src="media/image7.png" style="width:6.5in;height:4.05208in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image7.png" style="width:6.5in;height:4.05208in" />
 
 <span id="_Toc219290691" class="anchor"></span>Figure 6.1-1 Example
 Service Showing Service Boundary
@@ -2174,12 +2174,12 @@ Contract.
 The OMS Messages supported or not supported by each state should be
 defined in individual Service Contracts.
 
-<img src="media/image8.png" style="width:6.61452in;height:4.19767in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image8.png" style="width:6.61452in;height:4.19767in" />
 
 <span id="_Toc219290692" class="anchor"></span>Figure 6.1-2 Service
 Status State Diagram
 
-<img src="media/image9.png" style="width:4.89535in;height:5.4863in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image9.png" style="width:4.89535in;height:5.4863in" />
 
 <span id="_Toc219290693" class="anchor"></span>Figure 6.1-3 Allowed
 State Transitions for OMS Service
@@ -2522,7 +2522,7 @@ Services, and Isolators. Refer to Figure 6.2-1, Example Subsystem
 showing Subsystem Boundary, for an illustration of an example Subsystem
 with three constituent parts and its boundary.
 
-<img src="media/image10.png" style="width:6.5in;height:4.03125in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image10.png" style="width:6.5in;height:4.03125in" />
 
 <span id="_Toc219290694" class="anchor"></span>Figure 6.2-1 Example
 Subsystem showing Subsystem Boundary
@@ -2636,12 +2636,12 @@ in the figure and table. For example, a failure to successfully load a
 Mission Data File (MDF) or communications waveform may move the
 subsystem from INITIALIZATION back to PRE\_INITIALIZATION.
 
-<img src="media/image11.png" style="width:7.68605in;height:5.43539in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image11.png" style="width:7.68605in;height:5.43539in" />
 
 <span id="_Toc219290695" class="anchor"></span>Figure 6.2-2 Subsystem
 State Diagram
 
-<img src="media/image12.png" style="width:6.5in;height:6.5in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image12.png" style="width:6.5in;height:6.5in" />
 
 <span id="_Toc219290696" class="anchor"></span>Figure 6.2-3 Allowed
 State Transitions for OMS Subsystem
@@ -3519,17 +3519,17 @@ assigned relative root. Upon completion of loading the MDF or other
 files, the Subsystem is in its STANDBY or OPERATE\* state and is ready
 to be commanded in accordance with a Service Contract.
 
-<img src="media/image13.png" style="width:7.12416in;height:5.66279in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image13.png" style="width:7.12416in;height:5.66279in" />
 
 <span id="_Toc219290697" class="anchor"></span>Figure 6.2-4 Notional
 Subsystem Startup Sequence Example (1 of 3)
 
-<img src="media/image14.png" style="width:8.74553in;height:5.80233in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image14.png" style="width:8.74553in;height:5.80233in" />
 
 <span id="_Toc219290698" class="anchor"></span>Figure 6.2-5 Notional
 Subsystem Startup Sequence Example (2 of 3)
 
-<img src="media/image15.png" style="width:6.96503in;height:5.84884in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image15.png" style="width:6.96503in;height:5.84884in" />
 
 <span id="_Toc219290699" class="anchor"></span>Figure 6.2-6 Notional
 Subsystem Startup Sequence Example (3 of 3)
@@ -3624,7 +3624,7 @@ erase processing and periodically reports EraseStatus=PROCESSING in the
 4\. Once erase processing is complete, the Subsystem sends another
 **SubsystemStatus** with EraseStatus=COMPLETED.
 
-<img src="media/image16.png" style="width:7.29312in;height:4.54651in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image16.png" style="width:7.29312in;height:4.54651in" />
 
 <span id="_Toc219290700" class="anchor"></span>Figure 6.2-7 Subsystem
 Erase Processing While Staying in OPERATE State Message Sequence Example
@@ -3720,7 +3720,7 @@ state (along with indicator that shutdown processing is active) in the
 4\. Once shutdown processing is complete, the Subsystem sends its final
 **SubsystemStatus** with SubsystemState=SHUTDOWN.
 
-<img src="media/image17.png" style="width:6.5in;height:5.71875in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image17.png" style="width:6.5in;height:5.71875in" />
 
 <span id="_Toc219290701" class="anchor"></span>Figure 6.2-8 Case 1a:
 Subsystem Shutdown Processing without Erase from OPERATE State Message
@@ -3748,7 +3748,7 @@ shutdown processing and periodically reporting as its current state
 4\. Once shutdown processing is complete, the Subsystem sends its final
 **SubsystemStatus** with SubsystemState=SHUTDOWN.
 
-<img src="media/image18.png" style="width:6.2907in;height:4.8894in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image18.png" style="width:6.2907in;height:4.8894in" />
 
 <span id="_Toc219290702" class="anchor"></span>Figure 6.2-9 Case 1b:
 Subsystem Shutdown Processing without Erase from Any State Except
@@ -3781,7 +3781,7 @@ shutdown processing is complete.
 **SubsystemStatus** with SubsystemState=SHUTDOWN and EraseStatus=
 COMPLETED.
 
-<img src="media/image19.png" style="width:6.5in;height:6.61458in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image19.png" style="width:6.5in;height:6.61458in" />
 
 <span id="_Toc219290703" class="anchor"></span>Figure 6.2-10 Case 2a:
 Subsystem Shutdown Processing with Erase from OPERATE State Message
@@ -3813,7 +3813,7 @@ the **SubsystemStatus** message until shutdown processing is complete.
 its SHUTDOWN state and sends its final **SubsystemStatus** with
 SubsystemState=SHUTDOWN and EraseStatus=COMPLETED.
 
-<img src="media/image20.png" style="width:6.5in;height:5.125in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image20.png" style="width:6.5in;height:5.125in" />
 
 <span id="_Toc219290704" class="anchor"></span>Figure 6.2-11 Case 2b:
 Subsystem Shutdown Processing with Erase from Any State Except OPERATE
@@ -3826,7 +3826,7 @@ OMS Data Exchanges consist of four types: OMS Messaging, Data Transfer,
 Special Signals, and Security Information Exchanges as depicted in
 Figure 6.3-1, OMS Data Exchanges.
 
-<img src="media/image21.png" style="width:6.5in;height:3.13542in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image21.png" style="width:6.5in;height:3.13542in" />
 
 <span id="_Toc219290705" class="anchor"></span>Figure 6.3-1 OMS Data
 Exchanges
@@ -3932,7 +3932,7 @@ formal OACWG change process. Figure 6.3-2, Determining Approved and
 Unapproved OMS Messages, provides an illustration of how to determine if
 an OMS Message is approved or unapproved.
 
-<img src="media/image22.png" style="width:6.90051in;height:4.03488in" alt="Diagram AI-generated content may be incorrect." />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image22.png" style="width:6.90051in;height:4.03488in" alt="Diagram AI-generated content may be incorrect." />
 
 <span id="_Toc219290706" class="anchor"></span>Figure 6.3-2 Determining
 Approved and Unapproved OMS Messages
@@ -5415,7 +5415,7 @@ Figure 6.3-3, Non-Streaming Data Products via Files, illustrates the
 sequence of steps and the relationship between OMS Messaging and the
 Data Transfer Protocols being used.
 
-<img src="media/image23.png" style="width:6.79221in;height:3.88593in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image23.png" style="width:6.79221in;height:3.88593in" />
 
 <span id="_Toc219290707" class="anchor"></span>Figure 6.3-3
 Non-Streaming Data Products via Files
@@ -5454,7 +5454,7 @@ relationship between OMS Messaging and the Data Transfer Protocols being
 used. Although the example shown is specific to TCP, the general pattern
 applies to UDP as well.
 
-<img src="media/image24.png" style="width:6.5in;height:3.58333in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image24.png" style="width:6.5in;height:3.58333in" />
 
 <span id="_Toc219290708" class="anchor"></span>Figure 6.3-4
 Non-Streaming Data Products via Sockets
@@ -6102,7 +6102,7 @@ Exchanges shown in this figure interface to the OMS-facing side of the
 Isolator. External elements interface to the non-OMS-facing side of the
 Isolator as indicated by the black line.
 
-<img src="media/image25.png" style="width:6.5in;height:3.41667in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image25.png" style="width:6.5in;height:3.41667in" />
 
 <span id="_Toc219290709" class="anchor"></span>Figure 6.4-1 Example
 Isolator Boundary between OMS Mission Package and External Elements
@@ -6268,7 +6268,7 @@ with OMS Messaging. In this case, MTI detection data is allowed in the
 format of STANAG 4607. No other STANAG 4607 format data is allowed, thus
 eliminating any overlap with OMS Messaging.
 
-<img src="media/image26.png" style="width:6.5in;height:6.89583in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image26.png" style="width:6.5in;height:6.89583in" />
 
 <span id="_Toc219290710" class="anchor"></span>Figure 6.4-2 Driving Use
 Cases for External Standard Usage
@@ -6352,7 +6352,7 @@ and Other Mission Processing elements. Figure 6.5-1, Detailed Structure
 Diagram for the ASB, provides a depiction of the ASB and its interaction
 with other OMS elements.
 
-<img src="media/image27.png" style="width:6.5in;height:5.29167in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image27.png" style="width:6.5in;height:5.29167in" />
 
 <span id="_Toc219290711" class="anchor"></span>Figure 6.5-1 Detailed
 Structure Diagram for the ASB
@@ -6435,7 +6435,7 @@ with the OMS Platform.
 
 See OMSC-SPC-001, CAL Specification for details.
 
-<img src="media/image28.png" style="width:6.5in;height:4.59375in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image28.png" style="width:6.5in;height:4.59375in" />
 
 <span id="_Toc219290712" class="anchor"></span>Figure 6.5-2 An OMS
 Platform’s ASB includes an OMS CAL
@@ -6889,7 +6889,7 @@ UTC second rollover, 1 PPM synchronized with the UTC minute rollover,
 the BCD Time Code consisting of time of day (UTC), day of year, and
 TFOM, and the Time Fault Discrete signal.
 
-<img src="media/image29.png" style="width:6.5in;height:2.29167in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image29.png" style="width:6.5in;height:2.29167in" />
 
 <span id="_Toc219290713" class="anchor"></span>Figure 6.5-3 Example 1
 PPS Pulse Train with Corresponding OMS Messages
@@ -11326,7 +11326,7 @@ Service adaptation can follow the same patterns):
 Platform-hosted Adapter provides OMS compliance to an otherwise non-OMS
 subsystem
 
-<img src="media/image30.png" style="width:6.5in;height:3.5625in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image30.png" style="width:6.5in;height:3.5625in" />
 
 <span id="_Toc219290714" class="anchor"></span>Figure A.1-1
 Platform-Hosted OMS Adaptation
@@ -11334,7 +11334,7 @@ Platform-Hosted OMS Adaptation
 2\. Figure A.1-2, Subsystem-Hosted OMS Adaptation, depicts where a
 Subsystem-hosted Adapter provides OMS compliance.
 
-<img src="media/image31.png" style="width:6.5in;height:4.02083in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image31.png" style="width:6.5in;height:4.02083in" />
 
 <span id="_Toc219290715" class="anchor"></span>Figure A.1-2
 Subsystem-Hosted OMS Adaptation
@@ -11342,7 +11342,7 @@ Subsystem-Hosted OMS Adaptation
 3\. Figure A.1-3, Standalone OMS Subsystem, depicts where a Subsystem is
 OMS compliant without requiring adaptation.
 
-<img src="media/image32.png" style="width:6.5in;height:3.82292in" />
+<img src="images/02_OMSC-STD-001_RevM_OMS_Standard_DandD_v2_5.docx/media/image32.png" style="width:6.5in;height:3.82292in" />
 
 <span id="_Toc219290716" class="anchor"></span>Figure A.1-3 Standalone
 OMS Subsystem

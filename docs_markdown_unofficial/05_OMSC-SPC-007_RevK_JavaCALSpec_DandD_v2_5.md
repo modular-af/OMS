@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Java Critical Abstraction Layer (CAL) Interface Generation Specification
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -799,12 +799,12 @@ Unified Modeling Language (UML) Overview of Common CAL Classes and
 Interfaces used to construct the CAL and to read and write data to the
 Abstract Service Bus (ASB).
 
-<img src="media/image2.png" style="width:9in;height:5.28125in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image2.png" style="width:9in;height:5.28125in" />
 
 <span id="_Toc219292530" class="anchor"></span>Figure 6.0-1 UML Overview
 of Common CAL Classes and Interfaces (part 1)
 
-<img src="media/image3.png" style="width:9in;height:3.47917in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image3.png" style="width:9in;height:3.47917in" />
 
 <span id="_Toc219292531" class="anchor"></span>Figure 6.0-2 UML Overview
 of Common CAL Classes and Interfaces (part 2)
@@ -815,7 +815,7 @@ Abstract Service Bus
 An instance of the AbstractServiceBusConnection is a CAL instance. It
 provides the fundamental support for sending and receiving messages.
 
-<img src="media/image4.png" style="width:6.5in;height:2.82292in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:2.82292in" />
 
 <span id="_Toc219292532" class="anchor"></span>Figure 6.1-1 UML for
 AbstractServiceBusConnection Interface
@@ -929,7 +929,7 @@ to which the factory belongs. It is used to obtain an Abstract Service
 Bus connection. Using the same serviceInitId will always return the same
 CAL instance.
 
-<img src="media/image5.png" style="width:6.5in;height:1.33333in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image5.png" style="width:6.5in;height:1.33333in" />
 
 <span id="_Toc219292533" class="anchor"></span>Figure 6.2-1 UML for
 AbstractServiceBusConnectionFactory Interface
@@ -970,7 +970,7 @@ The ASB factory loader shown in Figure 6.3-1, UML for
 AbstractServiceBusConnectionFactoryLoader Class, uses the Java’s service
 loader to load the AbstractServiceBusConnectionFactory implementation.
 
-<img src="media/image6.png" style="width:6.5in;height:1.21875in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image6.png" style="width:6.5in;height:1.21875in" />
 
 <span id="_Toc219292534" class="anchor"></span>Figure 6.3-1 UML for
 AbstractServiceBusConnectionFactoryLoader Class
@@ -1044,7 +1044,7 @@ lists from OMS Message Objects.
 
 The BoundedList is not thread-safe.
 
-<img src="media/image7.png" style="width:6.5in;height:2.38542in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image7.png" style="width:6.5in;height:2.38542in" />
 
 <span id="_Toc219292535" class="anchor"></span>Figure 6.5-1 UML for
 BoundedList Interface
@@ -1104,7 +1104,7 @@ The MessageListener shown in Figure 6.6-1, UML for Message Listener
 Interface, is the interface specification of a class of objects that
 listen for arriving T messages.
 
-<img src="media/image8.png" style="width:6.5in;height:1.4375in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image8.png" style="width:6.5in;height:1.4375in" />
 
 <span id="_Toc219292536" class="anchor"></span>Figure 6.6-1 UML for
 Message Listener Interface
@@ -1153,7 +1153,7 @@ provided OMS Message Object references may be freely retained by the CAL
 Client. Since the provided OMS object reference is shared by all
 listeners, CAL clients should not modify the provided referenced object.
 
-<img src="media/image9.png" style="width:6.5in;height:1.45833in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image9.png" style="width:6.5in;height:1.45833in" />
 
 <span id="_Toc219292537" class="anchor"></span>Figure 6.7-1 UML for
 Message Reader Interface
@@ -1211,7 +1211,7 @@ accepts a single OMS Message Object that is not modified by the Java
 CAL. The OMS Message Object may be freely reused by a CAL Client when
 the write operation returns.
 
-<img src="media/image10.png" style="width:6.5in;height:1.39583in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image10.png" style="width:6.5in;height:1.39583in" />
 
 <span id="_Toc219292538" class="anchor"></span>Figure 6.8-1 UML for
 Message Writer Interface
@@ -1251,7 +1251,7 @@ UCI Exception
 The base class of exceptions that are thrown by UCI methods are depicted
 in Figure 6.9-1, UML for UCIException Class.
 
-<img src="media/image11.png" style="width:6.5in;height:3.70833in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image11.png" style="width:6.5in;height:3.70833in" />
 
 <span id="_Toc219292539" class="anchor"></span>Figure 6.9-1 UML for
 UCIException Class
@@ -1318,7 +1318,7 @@ The UUIDFactory in Figure 6.10-1, UML for UUIDFactory Interface,
 provides the ability to create UUIDs for creating and modifying OMS
 Messages.
 
-<img src="media/image12.png" style="width:6.5in;height:1.77083in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image12.png" style="width:6.5in;height:1.77083in" />
 
 <span id="_Toc219292540" class="anchor"></span>Figure 6.10-1 UML for
 UUIDFactory Interface
@@ -1378,7 +1378,7 @@ The UUID factory loader shown in Figure 6.11-1, UML for
 UUIDFactoryLoader Class, uses the Java’s service loader to load a
 UUIDFactory implementation.
 
-<img src="media/image13.png" style="width:6.5in;height:1.67708in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image13.png" style="width:6.5in;height:1.67708in" />
 
 <span id="_Toc219292541" class="anchor"></span>Figure 6.11-1 UML for
 UUIDFactoryLoader Class
@@ -1427,7 +1427,7 @@ The class encapsulating the version information for the instance of the
 Java CAL Implementation is depicted in Figure 6.12-1, UML for Version
 Info Class.
 
-<img src="media/image14.png" style="width:6.5in;height:2.09375in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image14.png" style="width:6.5in;height:2.09375in" />
 
 <span id="_Toc219292542" class="anchor"></span>Figure 6.12-1 UML for
 Version Info Class
@@ -1492,7 +1492,7 @@ for the replacement of the to/from XML functionality, but also allows a
 method to export/import to an external format regardless of underlying
 CAL serialization and/or transport.
 
-<img src="media/image15.png" style="width:6.5in;height:2.30208in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image15.png" style="width:6.5in;height:2.30208in" />
 
 <span id="_Toc219292543" class="anchor"></span>Figure 6.13-1 UML for
 Externalizer Interface
@@ -1576,7 +1576,7 @@ Externalizer Loader
 The Externalizer Loader API allows an externally generated tool to be
 loaded by the CAL.
 
-<img src="media/image16.png" style="width:6.5in;height:1.5in" />
+<img src="images/05_OMSC-SPC-007_RevK_JavaCALSpec_DandD_v2_5.docx/media/image16.png" style="width:6.5in;height:1.5in" />
 
 <span id="_Toc219292544" class="anchor"></span>Figure 6.14-1 UML for
 ExternalizerLoader Class

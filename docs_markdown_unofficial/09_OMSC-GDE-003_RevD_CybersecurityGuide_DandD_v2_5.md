@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Cybersecurity Guide
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/09_OMSC-GDE-003_RevD_CybersecurityGuide_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -153,7 +153,7 @@ policy and guidance as illustrated in Figure 1.0-1. The figure below
 does not provide an exhaustive list of existing cybersecurity policy and
 guidance.
 
-<img src="media/image2.png" style="width:6.5in;height:5.09236in" alt="Graphical user interface, text, application AI-generated content may be incorrect." />
+<img src="images/09_OMSC-GDE-003_RevD_CybersecurityGuide_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:5.09236in" alt="Graphical user interface, text, application AI-generated content may be incorrect." />
 
 <span id="_Toc219293202" class="anchor"></span>Figure 1.0-1 OMS Standard
 D&D Supports PP/SSE
@@ -171,7 +171,7 @@ reference or provide relevant information to support the Adopting
 Program and system designers in addressing cybersecurity requirements as
 shown in Figure 1.0-2.
 
-<img src="media/image3.png" style="width:6.45833in;height:4.51042in" />
+<img src="images/09_OMSC-GDE-003_RevD_CybersecurityGuide_DandD_v2_5.docx/media/image3.png" style="width:6.45833in;height:4.51042in" />
 
 <span id="_Toc219293203" class="anchor"></span>Figure 1.0-2 OMS
 Cybersecurity Guidance in Acquisition
@@ -219,7 +219,7 @@ reference/synch processing, position information, and data storage.
 See OMSC-STD-001, OMS Standard D&D, for additional information on OMS
 Architecture.
 
-<img src="media/image4.png" style="width:6.5in;height:4.73958in" />
+<img src="images/09_OMSC-GDE-003_RevD_CybersecurityGuide_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:4.73958in" />
 
 <span id="_Toc219293204" class="anchor"></span>Figure 1.1-1 Top-Level
 View of the OMS Reference Architecture
@@ -446,7 +446,7 @@ Since OMS is focused on interactions between OMS Architecture Elements,
 CSRC 0 is not applicable. Figure 3.1-1 provides additional information
 on the expected protection at each CSRC level.
 
-<img src="media/image5.png" style="width:4.54167in;height:6.85417in" />
+<img src="images/09_OMSC-GDE-003_RevD_CybersecurityGuide_DandD_v2_5.docx/media/image5.png" style="width:4.54167in;height:6.85417in" />
 
 <span id="_Toc219293205" class="anchor"></span>Figure 3.1-1 CSRC Levels
 for OMS Compliance

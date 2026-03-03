@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 OMS Isolator Checklist Instructions
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/19_2_OMSC-INS-012_RevM_IsolatorChecklistInstructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -334,7 +334,7 @@ Messages should be documented in the “OMS Msgs” tab as illustrated in
 the figure. Non-OMS Messages are documented in the “Non-OMS Msgs” tab,
 which is discussed in the next section.
 
-<img src="media/image2.png" style="width:6.5in;height:2.76944in" alt="Diagram AI-generated content may be incorrect." />
+<img src="images/19_2_OMSC-INS-012_RevM_IsolatorChecklistInstructions_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:2.76944in" alt="Diagram AI-generated content may be incorrect." />
 
 <span id="_Toc219358755" class="anchor"></span>Figure 1.2-1 Mapping of
 Categories of OMS & Non-OMS Messages to Checklist Tabs

@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Mission Package Description Document (MPDD) Template Instructions
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/11_2_OMSC-INS-007_RevI_MPDDInstructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -805,7 +805,7 @@ cybersecurity requirements as shown in Figure 2.1-1. The OMS
 Cybersecurity is a component of the overall cybersecurity accreditation
 of the weapon system.
 
-<img src="media/image2.png" style="width:6.5in;height:4.125in" />
+<img src="images/11_2_OMSC-INS-007_RevI_MPDDInstructions_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:4.125in" />
 
 <span id="_Toc219294463" class="anchor"></span>Figure 2.1-1 OMS
 Cybersecurity Guidance in Acquisition
@@ -990,7 +990,7 @@ single or multiple security domains.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE. REPLACE THE FOLLOWING
 FIGURE WITH AN APPROPRIATE FIGURE FOR YOUR SYSTEM &gt;&gt;
 
-<img src="media/image3.png" style="width:6.5in;height:5.21875in" />
+<img src="images/11_2_OMSC-INS-007_RevI_MPDDInstructions_DandD_v2_5.docx/media/image3.png" style="width:6.5in;height:5.21875in" />
 
 <span id="_Toc219294464" class="anchor"></span>Figure 2.3-1 Security
 Domain Boundaries
@@ -1053,7 +1053,7 @@ identifies the server and clients.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE. REPLACE THE FOLLOWING
 FIGURE WITH AN APPROPRIATE FIGURE FOR YOUR SYSTEM &gt;&gt;
 
-<img src="media/image4.png" style="width:5.57292in;height:3.82292in" />
+<img src="images/11_2_OMSC-INS-007_RevI_MPDDInstructions_DandD_v2_5.docx/media/image4.png" style="width:5.57292in;height:3.82292in" />
 
 <span id="_Toc219294465" class="anchor"></span>Figure 2.3-2
 Non-Streaming Data Transfer Information Flow Diagram
@@ -1105,7 +1105,7 @@ identifies the producer and consumers.
 &lt;&lt; THE FOLLOWING IS AN EXAMPLE FIGURE. REPLACE THE FOLLOWING
 FIGURE WITH AN APPROPRIATE FIGURE FOR YOUR SYSTEM &gt;&gt;
 
-<img src="media/image5.png" style="width:6.5in;height:4.01042in" />
+<img src="images/11_2_OMSC-INS-007_RevI_MPDDInstructions_DandD_v2_5.docx/media/image5.png" style="width:6.5in;height:4.01042in" />
 
 <span id="_Toc219294466" class="anchor"></span>Figure 2.3-3 Streaming
 Data Transfer Information Flow Diagram

@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Subsystem Description Document (SDD) Template
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/13_1_OMSC-TMP-002_RevM_SDD_Template_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 

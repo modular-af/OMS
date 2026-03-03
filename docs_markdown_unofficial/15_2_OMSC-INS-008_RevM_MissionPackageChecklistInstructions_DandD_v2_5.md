@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 OMS Mission Package Checklist Instructions
 
-<img src="media/image1.jpeg" style="width:2.77778in;height:1.73611in" />
+<img src="images/15_2_OMSC-INS-008_RevM_MissionPackageChecklistInstructions_DandD_v2_5.docx/media/image1.jpeg" style="width:2.77778in;height:1.73611in" />
 
 22 january 2026
 

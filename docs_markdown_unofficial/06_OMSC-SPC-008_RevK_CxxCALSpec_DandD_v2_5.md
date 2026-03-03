@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 C++ Critical Abstraction Layer (CAL) Interface Generation Specification
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/06_OMSC-SPC-008_RevK_CxxCALSpec_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 

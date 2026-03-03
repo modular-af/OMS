@@ -4,7 +4,7 @@ Definition And Documentation (D&D)
 
 Critical Abstraction Layer (CAL) Specification
 
-<img src="media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
+<img src="images/04_OMSC-SPC-001_RevL_CAL_Specification_DandD_v2_5.docx/media/image1.jpeg" style="width:2.78125in;height:1.73958in" />
 
 22 January 2026
 
@@ -243,7 +243,7 @@ engineering will still be required to ensure that when a software
 application moves between CAL Implementations the application still
 meets its functional mission requirements.
 
-<img src="media/image2.png" style="width:6.5in;height:3.41667in" />
+<img src="images/04_OMSC-SPC-001_RevL_CAL_Specification_DandD_v2_5.docx/media/image2.png" style="width:6.5in;height:3.41667in" />
 
 <span id="_Toc219292478" class="anchor"></span>Figure 1.0-1 CAL API
 Message Generation Process
@@ -373,7 +373,7 @@ within services for any purpose desired by the service implementers. CAL
 APIs are designed to guarantee commonality of the CAL API across CALs
 for the same OMS version for that language.
 
-<img src="media/image3.png" style="width:6.5in;height:3.25in" />
+<img src="images/04_OMSC-SPC-001_RevL_CAL_Specification_DandD_v2_5.docx/media/image3.png" style="width:6.5in;height:3.25in" />
 
 <span id="_Toc219292479" class="anchor"></span>Figure 4.0-1 CAL Client
 Stack
@@ -543,7 +543,7 @@ a CAL Client to identify the communications between CAL Readers and CAL
 Writers. A CAL Implementation maps internal CAL Topics to Client Topics.
 Figure 4.11-1, CAL and Client Topics, depicts these interactions.
 
-<img src="media/image4.png" style="width:6.5in;height:3.19792in" />
+<img src="images/04_OMSC-SPC-001_RevL_CAL_Specification_DandD_v2_5.docx/media/image4.png" style="width:6.5in;height:3.19792in" />
 
 <span id="_Toc219292480" class="anchor"></span>Figure 4.11-1 CAL and
 Client Topics
@@ -1563,7 +1563,7 @@ The allowed states and transitions for the Abstract Service Bus
 Connection Status are illustrated in Figure 5.9-1, CAL Abstract Service
 Bus Connection Status State Diagram.
 
-<img src="media/image5.png" style="width:6.5in;height:4.70833in" />
+<img src="images/04_OMSC-SPC-001_RevL_CAL_Specification_DandD_v2_5.docx/media/image5.png" style="width:6.5in;height:4.70833in" />
 
 <span id="_Toc219292481" class="anchor"></span>Figure 5.9-1 CAL Abstract
 Service Bus Connection Status State Diagram
@@ -1574,7 +1574,7 @@ CAL Abstract Service Bus Connection Status State Transitions. Only
 NORMAL and FAILED states are guaranteed to be provided by the Abstract
 Service Bus Connection Status API.
 
-<img src="media/image6.png" style="width:5.57292in;height:6.28125in" />
+<img src="images/04_OMSC-SPC-001_RevL_CAL_Specification_DandD_v2_5.docx/media/image6.png" style="width:5.57292in;height:6.28125in" />
 
 <span id="_Toc219292482" class="anchor"></span>Figure 5.9-2 CAL Abstract
 Service Bus Connection Status State Transitions
