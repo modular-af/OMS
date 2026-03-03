@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-2.5-2f5597)]() [![Released](https://img.shields.io/badge/Released-January%2022%2C%202026-blue)]() [![Governance](https://img.shields.io/badge/Governed%20by-OACWG-1e3a8a)]() [![License](https://img.shields.io/badge/License-Government%20Owned-green)]()
 
-Welcome to the official unclassified repository for the Open Mission Systems (OMS) Standard, a government-owned, non-proprietary open architecture specification for mission systems. This repo contains the core technical documents defining OMS Version 2.5 (released January 22, 2026). The OMS standard promotes interoperability, modularity, and rapid integration in defense systems.
+Welcome to the unclassified repository for the Open Mission Systems (OMS) Standard, a government-owned, non-proprietary open architecture specification for mission systems. This repo contains the core technical documents defining OMS Version 2.5 (released January 22, 2026). The OMS standard promotes interoperability, modularity, and rapid integration in defense systems.
 
 > [!NOTE]
 > This repository focuses exclusively on the technical standard and documentation. Example "hello world" software implementation code is forthcoming.
