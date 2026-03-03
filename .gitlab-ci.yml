@@ -1,0 +1,14 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+    - mkdir public
+    - cp README.md public/index.html || echo "<h1>Welcome to OMS</h1>" > public/index.html
+    - cp -r docs_markdown_unofficial/* public/ 2>/dev/null || true
+    - cp -r images public/ 2>/dev/null || true
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
