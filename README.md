@@ -42,4 +42,4 @@ These files cover requirements, architecture, compliance checklists, templates f
 ## 🧭 Where to Find More Information
 
 - **Official Governance**: Visit the Open Architecture Collaborative Working Group (OACWG) for updates and governance details. Contact via <aflcmc.ase.architectures@us.af.mil>.
-- **Related Standards**: The OMS standard builds on the [Universal Command and Control Interface (UCI)](../UCI) standard.
+- **Related Standards**: The OMS standard builds on the [Universal Command and Control Interface (UCI)](/modular-af/UCI) standard.
