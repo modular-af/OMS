@@ -5,7 +5,7 @@
 Welcome to the unclassified repository for the Open Mission Systems (OMS) Standard, a government-owned, non-proprietary open architecture specification for mission systems. This repo contains the core technical documents defining OMS Version 2.5 (released January 22, 2026). The OMS standard promotes interoperability, modularity, and rapid integration in defense systems.
 
 > [!NOTE]
-> The United States Air Force is experimenting with releasing unclassified standards on <https://gitlab.com/modular-af/> and <https://github.com/modular-af>.  We welcome [constructive feedback](mailto:aflcmc.ase.architectures@us.af.mil) on how we can improve this approach.  These repositories currently focus exclusively on the technical standard and documentation. Example "hello world" software is forthcoming.
+> The United States Air Force is experimenting with releasing unclassified standards on <https://gitlab.com/modular-af/> and <https://github.com/modular-af/>.  We welcome [constructive feedback](mailto:aflcmc.ase.architectures@us.af.mil) on how we can improve this approach.  These repositories currently focus exclusively on the technical standard and documentation. Example "hello world" software is forthcoming.
 
 ## 🚀 Overview
 
